@@ -1,0 +1,6 @@
+*.class
+*.DS_Store
+[bB]in/
+.metadata/
+.recommenders/
+.settings/
